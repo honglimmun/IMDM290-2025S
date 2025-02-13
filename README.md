@@ -1,5 +1,5 @@
 ![heart](https://github.com/user-attachments/assets/f0c91918-60bf-4130-a0e5-c473b6071378)
-
+![imdm290_a2_heart](https://github.com/honglimmun/IMDM290-2025S/blob/main/imdm290_a2_heart.png)
 IMDM 290 
 Assignment 2 - Heart Using CS script
 
